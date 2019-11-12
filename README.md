@@ -1,0 +1,2 @@
+# FristOne
+just a exercise
